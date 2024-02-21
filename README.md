@@ -1,4 +1,8 @@
-# keypad-pcb
+# keypad      
+
+A simple 2x3 mechanical keypad pcb and case.       
+
+Case parts are designed for either 3D printing or CNC machining, stacked and screwed together.       
 
 ### Resources:
 - https://guide.zykrah.me/
