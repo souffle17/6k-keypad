@@ -1,6 +1,6 @@
 # keypad      
 
-A simple 2x3 mechanical keypad pcb and case. Firmware can be found [here](https://github.com/souffle17/6k-keypad-firmware)       
+A simple 2x3 mechanical keypad pcb and case. Custom firmware and functionality can be found [here](https://github.com/souffle17/6k-keypad-firmware)       
 
 Case parts are designed for either 3D printing or CNC machining, stacked and screwed together.       
 
