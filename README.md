@@ -1,4 +1,4 @@
-# keypad      
+# 6k-keypad      
 
 A simple 2x3 mechanical keypad pcb and case. Custom firmware and functionality can be found [here](https://github.com/souffle17/6k-keypad-firmware)       
 
